@@ -1,6 +1,6 @@
 # PowerCLI Community Repository 
 ## Principles of Operations
-## Table of Contents
+## Table of Content links 
 * [Abstract](https://github.com/vmware/PowerCLI-Example-Scripts#abstract)
 * [Table of Contents](https://github.com/vmware/PowerCLI-Example-Scripts#table-of-contents)
 * [Content Restrictions](https://github.com/vmware/PowerCLI-Example-Scripts#content-restrictions)
